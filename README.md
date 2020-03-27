@@ -1,4 +1,4 @@
-# _Verify Age for Voting Information Website_
+# _Animal Information Website_
 
 #### _Practice Branching with Buttons in jQuery_
 
